@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Varsha Rana</h1>
-<h3 align="center">A passionate Cloud & Infrastructure Engineer with a strong background in cloud computing, automation, and incident management. Certified Google Cloud Associate Engineer and Datadog expert, continuously learning new technologies to improve infrastructure reliability and optimize cloud environments.</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06393438-fb89-430a-a13b-9f44454c3533" width="250" height="250">
+</p>
+
+<h3 align="center">
+  A passionate Cloud & Infrastructure Engineer with a strong background in cloud computing, automation, and incident management. Certified Google Cloud Associate Engineer and Datadog expert, continuously learning new technologies to improve infrastructure reliability and optimize cloud environments.
+</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-rana-1115b7233)
