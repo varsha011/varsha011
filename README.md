@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Varsha Rana</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06393438-fb89-430a-a13b-9f44454c3533" width="250" height="250">
+  <img src="https://github.com/user-attachments/assets/d219d81f-72f4-494d-b52d-5725e7e75941" width="150" height="200">
 </p>
 
 <h3 align="center">
