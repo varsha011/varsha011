@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
 </p>
 
 ## 🎓 Certifications:
