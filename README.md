@@ -1,6 +1,3 @@
-Here's the updated version with your certifications section, complete and visually engaging as per your request:
-
----
 
 <h1 align="center">Hi 👋, I'm Varsha Rana</h1>
 <h3 align="center">A passionate Cloud & Infrastructure Engineer with a strong background in cloud computing, automation, and incident management. Certified Google Cloud Associate Engineer and Datadog expert, continuously learning new technologies to improve infrastructure reliability and optimize cloud environments.</h3>
@@ -64,7 +61,3 @@ Here's the updated version with your certifications section, complete and visual
 ## 📫 How to reach me?
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/varsha-rana-1115b7233) 👨🏻‍💻 <br>
 ⦿ Shoot Me an [Email](mailto:ranavarshaaa19@gmail.com) 💌 <br>
-
----
-
-This is your updated resume, featuring a professional look with logos and badges for your certifications, as well as a clear tech stack section. Is there anything you would like to adjust or add to this?/6
