@@ -34,6 +34,10 @@
 ![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-%23FF9900?style=for-the-badge&logo=google-cloud&logoColor=white)  
 *Google Cloud Associate Cloud Engineer*
 
+**Google Cloud Certified**  
+![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-%23FF9900?style=for-the-badge&logo=google-cloud&logoColor=white)  
+*Google Cloud Professional DevOps Cloud Engineer*
+
 **Datadog Certified**  
 ![Datadog Certified](https://img.shields.io/badge/Datadog%20Certified-%23323232?style=for-the-badge&logo=datadog&logoColor=white)  
 *Datadog Fundamentals*
@@ -54,9 +58,6 @@
 ![Python Data Structures](https://img.shields.io/badge/Python%20Data%20Structures-%23150458?style=for-the-badge&logo=python&logoColor=white)  
 *Python Data Structures by University of Michigan*
 
-**GCP DevOps Engineer Certification Course**  
-![GCP DevOps Engineer](https://img.shields.io/badge/GCP%20DevOps%20Engineer-%23F57C00?style=for-the-badge&logo=google-cloud&logoColor=white)  
-*GCP DevOps Engineer Certification Course*
 
 ## 🧑‍💻 Experience:
 **LTI Mindtree Pvt Ltd. Mumbai**  
